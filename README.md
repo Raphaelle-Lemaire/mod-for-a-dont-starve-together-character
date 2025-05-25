@@ -1,5 +1,5 @@
-# Roller Shadowcaster – Custom Character Mod for Don't Starve Together
-This mod adds a custom character to Don't Starve Together with a unique playstyle centered around mobility and shadow manipulation.
+# Roller Shadowcaster (Raph)
+This mod adds a custom character to Don't Starve Together with a playstyle centered around mobility and shadow invocation.
 
 ## Characteristic:
 - The character is always on rollers, granting increased movement.
